@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'FormaDJRCyrillicDeck';
+    src: url('fonts/FormaDJRCyrillicDeck-Bold-Testing.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FormaDJRCyrillicDeck';
+    src: url('fonts/fonts/FormaDJRCyrillicDeck-Bold-Testing.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FormaDJRCyrillicDeck';
+    src: url('/fonts/fonts/FormaDJRCyrillicVariable-VF-Testing.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FormaDJRCyrillicDeck';
+    src: url('fonts/FormaDJRCyrillicDeck-Medium-Testing.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FormaDJRCyrillicDeck';
+    src: url('fonts/FormaDJRCyrillicDeck-Regular-Testing.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FormaDJRCyrillicVariable';
+    src: url('fonts/FormaDJRCyrillicVariable-VF-Testing.woff2') format('woff2');
+    font-weight: 100 900; 
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'PantonRustScrSmBoldGr';
+    src: url('/fonts/PantonRustScrSmBold-Gr.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+  }
+  

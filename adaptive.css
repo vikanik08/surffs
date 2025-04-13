@@ -1,0 +1,381 @@
+
+@media screen and (min-width: 415px) and (max-width: 1024px) {
+    .navbar {
+        display: none;
+    }
+
+    .burger {
+        background-image: url(/img/burger.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 2vw;
+        height: 2vw;
+        margin: 3vw 0 0 4vw;
+    }
+
+    .socail_media {
+        margin: 2vw 0px 0px 21vw;
+    }
+}
+
+@media screen and (min-width: 315px) and (max-width: 415px) {
+
+    .navbar {
+        display: none;
+    }
+
+    .burger {
+        background-image: url(/img/burger.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 2vw;
+        height: 2vw;
+        margin: 3vw 0 0 4vw;
+    }
+
+    .socail_media {
+        margin: 2vw 0px 0px 21vw;
+    }
+
+    .more-btn, .phone, .wave, .wave1, .wave3, .award-card-secondary, .award-card-image  {
+        display: none;
+    }
+
+    .cards_container {
+        flex-direction: column;
+        gap: 3vw;
+        height: 100vw;
+        margin-top: 40vw;
+    }
+
+    .feature-card1, .feature-card2, .feature-card3, .feature-card4 {
+        width: 90vw;
+        height: 27vw;
+        display: flex;
+    }
+
+    .flex_mobile {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card_img {
+        margin: 2vw 0px 0px 2.5vw;
+        width: 38vw;
+        height: 20vw;
+    }
+
+    .card_title {
+        font-size: 4.5vw;
+        margin: 2vw 0px 1vw;
+    }
+
+    .subtitle {
+        margin-top: 25vw;
+        width: 90vw;
+        height: 4vw;
+        font-size: 4vw;
+    }
+
+    .street {
+        width: 38vw;
+        font-size: 2.3vw;
+        line-height: 0%;
+    }
+
+    .card_subtitle {
+        width: 43vw;
+        height: 15vw;
+        font-size: 2.8vw;
+        margin: 7vw 0px 0px 1vw;
+    }
+
+    .offers_container {
+        flex-direction: column;
+    }
+
+    .scr5_content1, .scr5_content2, .scr5_content3 {
+        width: 90vw;
+        height: 90vw;
+        margin: 0vw 10vw;
+    }
+
+    .first_screen, .second_screen, .third_screen, .forth_screen, .seventh_screen {
+        height: 100vw;
+    }
+    .first_screen {
+        height: 177vw;
+    }
+
+    .forth_screen {
+        height: 163vw;
+    }
+
+    .third_screen {
+        background-image: url(/img/bg_mobile.png);
+    }
+
+    .second_screen {
+        height: 130vw;
+    }
+    .big_text_container {
+        padding: 9vw 0px 0px;
+        margin: 4vw 0px 0px 6vw;
+        width: 100vw;
+        height: 98vw;
+        font-size: 3vw;
+    }
+
+    .link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 8vw;
+        height: 8vw;
+        border-radius: 20vw;
+        background-color: rgb(238, 245, 255);
+        margin: -7vw 0px 0px 74vw;
+    }
+
+    .arrow {
+        width: 4vw;
+        height: 4vw;
+    }
+
+    .years {
+        font-size: 4vw;
+        margin: 88.5vw 0 0 -32vw;
+    }
+
+    .years a {
+        margin: 0 1vw;
+        font-size: 4vw;
+        text-decoration: none;
+        color: #002339;
+        opacity: 0.7;
+    }
+
+    .image {
+        width: 81vw;
+        height: 91vw;
+        margin: 2vw 0 0 3vw;
+    }
+
+    .award-card-main {
+        flex-direction: column;
+        margin: 0 0 0 0vw;
+        height: 76vw;
+        display: flex;
+        width: 87vw;
+    }
+
+    .text {
+        padding: 2vw;
+        width: 80vw;
+    }
+
+    .small_title {
+        font-size: 3.3vw;
+        margin-bottom: 1vw;
+    }
+
+    .small_title h2 {
+        width: 41vw;
+        font-size: 4vw;
+        margin: 0 0 1vw;
+    }
+    .offer {
+        font-size: 12vw;
+        width: 55vw;
+    }
+
+    .org {
+        font-size: 3.2vw;
+        line-height: 1.5;
+    }
+
+    .year {
+        width: 19vw;
+        margin: 2vw 0 0 1vw;
+        height: 3vw;
+    }
+
+    .logo_in_text {
+        display: none;
+    }
+
+    .big_card {
+        width: 100vw;
+        height: 100vw;
+    }
+
+    .surftrainco_logo {
+        width: 48vw;
+        height: 20vw;
+        margin: 0 0 0 -26vw;
+    }
+
+    .middle_card {
+        padding: 2vw;
+        width: 63vw;
+        height: 19vw;
+    }
+
+    .life_style h1 {
+    width: 81vw;
+    font-size: 7vw;
+    margin-bottom: 4vw;
+    }
+
+    .smale_card {
+        align-items: center;
+        display: flex;
+        width: 65vw;
+        height: 48vw;
+        border: 2px #38546280 solid;
+        border-radius: 2vw;
+        flex-wrap: wrap;
+        padding: 0 0 0 1vw;
+    }
+
+    .two_cards {
+        width: 25vw;
+        height: 31vw;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .middle_card p {
+        font-size: 1.8vw;
+    }
+
+    .students_number {
+        margin-left: 4vw;
+        font-size: 5vw;
+    }
+
+    .students {
+        margin: -2vw 0px 0px 4vw;
+        font-size: 3.2vw;
+    }
+
+    .middle_card h1 {
+        font-size: 7vw;
+    }
+
+    .avatars {
+        width: 24vw;
+        height: 11vw;
+    }
+
+    .sec_cards {
+        gap: 5vw;
+        flex-direction: column;
+        width: 104vw;
+        height: 75vw;
+        display: flex;
+        justify-content: space-between;
+        margin: -10vw 0 0 15vw;
+}
+
+.card_wrapper {
+    flex-direction: column;
+    margin: -4vw 0px 0px -2vw;
+    width: 100vw;
+    height: 160vw;
+    display: flex;
+    justify-content: center;
+    gap: 1.5vw;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 0 0 0 13vw;
+    background: white;
+    width: 75vw;
+    height: 70vw;
+    border-radius: 2vw;
+    padding: 2vw;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tariff_title {
+    font-size: 5vw;
+}
+
+.calendar_img, .timer_img {
+    margin: 0 0 0 -3vw;
+    width: 30vw;
+    height: 11vw;
+}
+
+.texting h6 {
+    font-size: 3vw;
+}
+
+.texting h5 {
+    font-size: 2.5vw;
+}
+
+.card_image {
+    width: 20vw;
+    height: 20vw;
+}
+
+.features {
+    width: 51vw;
+    list-style: none;
+    padding: 0px;
+    text-align: left;
+    font-size: 3.2vw;
+    margin-bottom: 2vw;
+}
+.new_price {
+    font-size: 4vw;
+}
+
+.old_price {
+    font-size: 3.2vw;
+}
+
+.rate-btn {
+    width: 67vw;
+    height: 10vw;
+    background: rgb(255, 21, 20);
+    color: white;
+    border: none;
+    padding: 1vw 3vw;
+    border-radius: 11vw;
+    font-size: 3.3vw;
+    cursor: pointer;
+}
+
+.duration {
+    width: 20vw;
+    height: 10vw;
+    margin: 0px 0px 0px -33vw;
+}
+
+.duration_colums {
+
+    width: 0vw;
+    gap: 15vw;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
