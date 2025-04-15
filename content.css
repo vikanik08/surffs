@@ -6,7 +6,7 @@ body {
   /* background-image: url(/img/Desktop.png); */
   font-family: "FormaDJRCyrillicDeck";
   background-size: contain;
-  background-image: url(/img/bg.svg);
+  background-image: url(./img/bg.svg);
   background-repeat: no-repeat;
  
 }
@@ -75,7 +75,7 @@ a {
 }
 
 .logo_header {
-  background-image: url(/img/logo_header.svg);
+  background-image: url(./img/logo_header.svg);
   width: 5vw;
   height: 3vw;
   background-repeat: no-repeat;
@@ -153,7 +153,7 @@ a {
 .online_text {
   width: 7vw;
   height: 7vw;
-  background-image: url(/img/online_text.png);
+  background-image: url(./img/online_text.png);
   background-repeat: no-repeat;
   background-size: contain;
   display: flex;
@@ -164,7 +164,7 @@ a {
 .logo_icon {
   width: 3vw;
   height: 3vw;
-  background-image: url(/img/logo_icon.png);
+  background-image: url(./img/logo_icon.png);
   background-repeat: no-repeat;
   background-size: contain;
   transition: transform 0.5s ease;
