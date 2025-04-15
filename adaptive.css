@@ -24,13 +24,17 @@
         display: none;
     }
 
+    .surfing_text h1{
+    font-size: 8vw;
+    }
+
     .burger {
         background-image: url(/img/burger.png);
         background-size: contain;
         background-repeat: no-repeat;
-        width: 2vw;
-        height: 2vw;
-        margin: 3vw 0 0 4vw;
+        width: 4vw;
+        height: 3vw;
+        margin: 2.5vw 0 0 4vw;
     }
 
     .socail_media {
@@ -83,6 +87,13 @@
         line-height: 0%;
     }
 
+    .social_media_container {
+        width: 69vw;
+        height: 10vw;
+        margin: 64vw 0px 0px 15vw;
+        background: none;
+    }
+
     .card_subtitle {
         width: 43vw;
         height: 15vw;
@@ -103,27 +114,225 @@
     .first_screen, .second_screen, .third_screen, .forth_screen, .seventh_screen {
         height: 100vw;
     }
+
+    .seventh_screen {
+        background-position: -50vw;
+        height: 130vw;
+        background-size: cover;
+    }
+
+    .seven_titile_container  {
+        width: 60vw;
+        height: 18vw;
+    }
+
     .first_screen {
         height: 177vw;
     }
 
+    .fivth_screen {
+        height: 290vw;
+    }
+
+    .scr5_content3 p {
+        margin: 50vw 0 0 4vw !important;
+    }
+
+    .we_on_map {
+        width: 47vw;
+        font-size: 6vw;
+    }
+
+    .place {
+        width: 50vw;
+        margin: 0px 0px 0px 14vw;
+        font-size: 6.5vw;
+        font-weight: 400;
+    }
+    .scr5_content2 p {
+        margin: 49vw 0 0 4vw !important;
+    }
+
+    .scr5_content1 p {
+        margin: 51vw 0 0 11vw !important;
+    }
+
+    .five_top_container {
+        margin: 5vw 0px 3vw 15vw;
+    }
+
+    .fiv_text {
+        width: 72vw !important;
+        font-size: 5vw;
+    }
+
+    .dates {
+        margin: 8vw 0 0 10vw;
+        height: auto;
+        width: 60vw;
+        font-size: 5.8vw;
+    }
+
+    
+
+    .surfboard {
+        display: none;
+    }
+
+    .navigation_buttons {
+        display: none;
+    }
+
+    .social_wrapper {
+        flex-direction: column-reverse;
+        background: none;
+        margin: 45vw 0 0 0;
+    }
+
+    .point {
+        width: 6.5vw;
+        height: 6.5vw;
+    }
+
+    .line_two {
+        margin: 0 0 -3vw -12vw;
+        background-color: white;
+        height: 14vw;
+        width: 90vw;
+        display: flex;
+        gap: 20vw;
+        border-radius: 4vw;
+    }
+
+    .way {
+        width: 48vw;
+        font-size: 4vw;
+        margin: 0 0 0 9vw;
+    }
+
+
+    .text_one_container {
+        width: 40vw;
+        font-size: 3.5vw;
+        margin: 0 0 0 8vw;
+    }
+
+    .icons_footer, .messenger_icons_footer { 
+        width: 40vw;
+    }
+
+    .telegram, .whatsup, .viber, .instagram, .tiktok, .vk {
+        width: 6vw;
+        height: 6vw;
+    }
+
+    .date1 {
+        margin: 2vw 0 0 3vw;
+    }
+
+    .date2 {
+        margin: -4vw 0 0 -3vw;
+        }
+
+    .date3 {
+        margin: -4vw 0 0 -4vw;
+    }
+
+    .scr5_content1 {
+        margin: 0 0 0 2vw;
+        width: 104vw !important;
+        height: 104vw !important;
+    }
+
+    .script  {
+        font-size: 6.5vw;
+        margin-left: 24vw;
+    }
+
     .forth_screen {
-        height: 163vw;
+        height: 208vw;
     }
 
     .third_screen {
+        height: 144vw;
         background-image: url(/img/bg_mobile.png);
     }
 
     .second_screen {
         height: 130vw;
     }
+
+    .sixth_screen {
+        height: 193vw;
+    }
     .big_text_container {
         padding: 9vw 0px 0px;
         margin: 4vw 0px 0px 6vw;
         width: 100vw;
-        height: 98vw;
+        height: 25vw;
         font-size: 3vw;
+    }
+
+    .big_text_cont2 {
+        margin: 11vw 0 0 0;
+    }
+
+    .sixscr_title {
+        width: 100vw;
+        margin: 16vw 0 19vw 6vw;    
+    }
+
+    .logo_footer {
+        position: absolute;
+        margin: 51vw 52vw;
+        width: 24vw;
+        height: 24vw;
+    }
+
+    button {
+        margin: -9vw 0 0 0;
+        padding: 1.2vw 2vw;
+        width: 85.5vw;
+        height: 15vw;
+        font-size: 4vw;
+        border-radius: 8vw;
+    }
+
+    input, select {
+        text-align: center;
+        margin-left: 0vw;
+        flex: 1 1 18vw;
+        padding: 0vw 0 0 0vw;
+        font-size: 4vw;
+        border-radius: 8vw;
+    }
+
+    .input {
+        margin: 1vw 0 0 0;
+    }
+
+    .image_block {
+        margin: -13vw 0px -10vw -12vw;
+        width: 85vw;
+        height: 86vw;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-image: url(/img/sixscr_girl.svg);
+        flex: none;
+    }
+
+    .bold2 {
+        font-size: 8vw;
+    }
+
+    .italic {
+        font-size: 6.5vw;
+        margin-left: 3vw;
+    }
+
+
+    .offer_card {
+        width: 100vw;
     }
 
     .link {
@@ -138,14 +347,77 @@
     }
 
     .arrow {
-        width: 4vw;
-        height: 4vw;
+        margin: 1vw 0 0 29vw;
+        width: 11vw;
+        height: 6vw;
+    }
+
+    .arrow2 {
+        margin: -4vw 0 0 2vw;
+    }
+
+    .arrow3 {
+        margin: -4vw 0 0 2vw;
     }
 
     .years {
         font-size: 4vw;
-        margin: 88.5vw 0 0 -32vw;
+        margin: 127.5vw 0 0 -65vw;
     }
+
+    .bold {
+        margin: 0 0 0 16vw;
+        font-size: 8vw;
+    }
+
+    .our_club {
+        margin: 1vw;
+        width: 54vw;
+        font-size: 6.5vw;
+    }
+
+    .booking_container {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        width: 100vw;
+        height: auto;
+        margin: 0px auto;
+        gap: 0vw;
+    }
+
+    .date_time, .name_tel, .submit_container  {
+        margin: 9vw 0 0 -22vw;
+        width: 86vw;
+        flex-direction: column;
+        height: 30vw;
+        font-size: 7vw;
+    }
+
+    .tariff-select {
+        margin: 0vw -30vw 0vw -22vw;
+        width: 84vw;
+        height: 13vw;
+        font-size: 4vw;
+        text-align: center;
+        background-color: #fff;
+        border-radius: 8vw;
+    }
+
+    .agree_text {
+        width: 57vw;
+        font-size: 2.9vw;
+        margin: -3vw 0px 0px 1vw;
+    }
+
+    .choice {
+        width: 85vw;
+        margin: 4.5vw 0 0 0;
+        color: rgb(0, 43, 65);
+    }
+
 
     .years a {
         margin: 0 1vw;
@@ -163,8 +435,8 @@
 
     .award-card-main {
         flex-direction: column;
-        margin: 0 0 0 0vw;
-        height: 76vw;
+        margin: 2vw 0 0 0vw;
+        height: 111vw;       
         display: flex;
         width: 87vw;
     }
@@ -175,13 +447,18 @@
     }
 
     .small_title {
-        font-size: 3.3vw;
+        font-size: 6.3vw;
         margin-bottom: 1vw;
     }
 
-    .small_title h2 {
-        width: 41vw;
-        font-size: 4vw;
+    .logo_icon {
+        width: 10vw;
+        height: 10vw;
+    }
+
+    .small_h2 {
+        width: 62vw;
+        font-size: 6vw;
         margin: 0 0 1vw;
     }
     .offer {
@@ -190,7 +467,7 @@
     }
 
     .org {
-        font-size: 3.2vw;
+        font-size: 4.2vw;
         line-height: 1.5;
     }
 
@@ -198,6 +475,18 @@
         width: 19vw;
         margin: 2vw 0 0 1vw;
         height: 3vw;
+    }
+
+    .socail_media img {
+        margin-top: 1.5vw;
+        width: 4vw;
+        height: 4vw;
+    }
+
+    .logo_header {
+        width: 11vw;
+        height: 8vw;
+        margin: 2vw 2vw 0px 15vw;
     }
 
     .logo_in_text {
@@ -218,7 +507,7 @@
     .middle_card {
         padding: 2vw;
         width: 63vw;
-        height: 19vw;
+        height: 24vw;
     }
 
     .life_style h1 {
@@ -246,7 +535,8 @@
     }
 
     .middle_card p {
-        font-size: 1.8vw;
+        margin: 2vw 1vw -2vw 0;
+        font-size: 2.1vw;
     }
 
     .students_number {
@@ -268,21 +558,64 @@
         height: 11vw;
     }
 
+    .line_first {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
     .sec_cards {
-        gap: 5vw;
+        gap: 11vw;
         flex-direction: column;
-        width: 104vw;
-        height: 75vw;
+        width: 109vw;
+        height: 79vw;
         display: flex;
         justify-content: space-between;
         margin: -10vw 0 0 15vw;
-}
+    }
+
+    .third_line, .fourth_line {
+        width: 60vw;
+        margin: 3vw 0 0 6vw;
+    }
+
+    .first_line_offer {
+        padding: 9vw 0px 0px 8.5vw;        
+        gap: 9vw;
+        width: 82vw;
+        display: flex
+    ;
+    }
+
+    .first_line, .sec_line {
+        align-items: center;
+        background-color: white;
+        height: 14vw;
+        width: 89vw;
+        flex-direction: row;
+        margin: 1vw 0 0 -12vw;
+        border-radius: 4vw;
+        gap: 17vw; 
+    }
+
+    .awards {
+        margin: 0 0 0 -6vw;
+        font-weight: 900;
+        color: rgb(0, 35, 57);
+        font-size: 8vw;
+    }
+
+    .our_club {
+        margin: 1vw;
+        width: 54vw;
+        color: rgb(255, 61, 61);
+        font-size: 6.5vw;
+    }
 
 .card_wrapper {
     flex-direction: column;
-    margin: -4vw 0px 0px -2vw;
+    margin: 4vw 0px 0px -2vw;
     width: 100vw;
-    height: 160vw;
+    height: 200vw;
     display: flex;
     justify-content: center;
     gap: 1.5vw;
@@ -293,7 +626,7 @@
     margin: 0 0 0 13vw;
     background: white;
     width: 75vw;
-    height: 70vw;
+    height: 90vw;
     border-radius: 2vw;
     padding: 2vw;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1vw;
@@ -313,10 +646,13 @@
 }
 
 .texting h6 {
+    margin-left: 5vw;
     font-size: 3vw;
 }
 
 .texting h5 {
+    width: 10vw;
+    margin-left: 5vw;
     font-size: 2.5vw;
 }
 
@@ -325,14 +661,31 @@
     height: 20vw;
 }
 
+.title_bold {
+    font-size: 8vw;
+}
+
+.title_red {
+    margin: -8vw 0 0 33vw;
+    display: block;
+    font-size: 6.5vw;
+    width: 35vw;
+}
+
 .features {
     width: 51vw;
     list-style: none;
     padding: 0px;
     text-align: left;
     font-size: 3.2vw;
-    margin-bottom: 2vw;
+    margin: 4vw 0 2vw 2vw;
 }
+
+.featur2 {
+    margin-left: -3vw;
+}
+
+
 .new_price {
     font-size: 4vw;
 }
@@ -342,6 +695,7 @@
 }
 
 .rate-btn {
+    margin: 1vw 0 0 -6vw;
     width: 67vw;
     height: 10vw;
     background: rgb(255, 21, 20);
@@ -352,6 +706,18 @@
     font-size: 3.3vw;
     cursor: pointer;
 }
+
+.featur_btn2 {
+    margin-left: -8vw;
+}
+
+.card1_subtitle {
+    width: 37vw !important;
+}
+
+.card4_subtitle {
+    width: 46vw !important;
+  }
 
 .duration {
     width: 20vw;
@@ -364,6 +730,108 @@
     width: 0vw;
     gap: 15vw;
 }
+
+.footer_box {
+    height: 90vw;
+}
+
+.footer_bg_text {
+    display: none;
+}
+
+.footer_icons {
+    display: none;
+}
+
+
+.footer_title {
+    width: 34vw;
+    font-size: 5.2vw;
+    font-weight: 700;
+    margin: 0px 0px 0 0vw;
+}
+
+.sub_title {
+    width: 40vw;
+    font-size: 3vw;
+    font-weight: 400;
+    line-height: 120%;
+}
+
+.footer_links li {
+    font-size: 3vw;
+}
+
+.small_text_footer {
+    font-size: 2.8vw;
+    width: 32vw;
+}
+
+.footer_content {
+    gap: 22vw;
+    flex-direction: row-reverse;
+    margin: 5vw 0px 0px 5vw;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    width: 88vw;
+    height: auto;
+}
+
+.footer_bottom_line {
+    flex-direction: column-reverse;
+    display: flex;
+    justify-content: space-between;
+    margin: 20vw 0px 0px 14vw;
+    padding-top: 1vw;
+    width: 100vw;
+}
+
+.none_text {
+    display: none;
+}
+
+.logo_img_text {
+    margin: -2vw 0 0 8vw;
+    width: 21vw;
+    height: 14vw;
+}
+
+.scroll_top_btn {
+    display: none;
+}
+
+.offer_link {
+    margin: 0 0 0 17vw;
+    font-size: 3.8vw;
+    width: 100%;
+    height: auto;
+}
+
+.footer_logo {
+    left: 36vw;
+    position: absolute;
+    margin: 29vw 0 0 3vw;
+    width: 25vw;
+    height: auto;
+}
+
+.footer_bottom_line p {
+    width: 55vw;
+    font-size: 3.8vw;
+    margin: 0 0 0 16vw;
+}
+
+.confidatinal {
+    font-size: 3.8vw;
+    width: 90vw;
+    margin: 2vw 0px 0px 9vw;
+}
+
+
+
 }
 
 
