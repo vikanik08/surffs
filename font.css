@@ -42,7 +42,7 @@
   
   @font-face {
     font-family: 'PantonRustScrSmBoldGr';
-    src: url('/fonts/PantonRustScrSmBold-Gr.woff2') format('woff2');
+    src: url('./fonts/PantonRustScrSmBold-Gr.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
   }
