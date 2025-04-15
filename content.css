@@ -331,6 +331,18 @@ color: #385462;
   line-height: 110%;
 }
 
+.life_style h1{
+  width: 40vw;
+  height: 25vw;
+  font-family: "PantonRustScrSmBoldGr";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+  margin: -10vw 0 0 0;
+  color: #FF1514;
+}
+
 .sec_text_block {
   width: 55vw;
   height: 22vw;
